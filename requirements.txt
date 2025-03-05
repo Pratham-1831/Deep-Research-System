@@ -4,3 +4,4 @@ langgraph
 python-dotenv
 loguru
 langchain-groq
+streamlit
