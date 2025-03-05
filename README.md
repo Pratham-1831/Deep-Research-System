@@ -6,16 +6,15 @@ An AI powered research assistant system that autonomously conducts web research,
 
 ## Features
 
-- 🕸️ **Web Research Agent**: Automated web crawling using Tavily Search API
-- 📝 **Answer Generation**: Groq-powered LLM (Mixtral/Llama3) report generation
-- 🔄 **Quality Control**: Iterative refinement loop with automated validation
-- 📊 **Streamlit Interface**: User-friendly interface with real-time progress tracking
-- 📚 **Source Citation**: Automatic source references and context preservation
-- 🤖 **Agentic Workflow**: LangGraph-powered stateful research pipeline
+- **Web Research Agent**: Automated web crawling using Tavily Search API
+- **Answer Generation**: Groq-powered LLM (Mixtral/Llama3) report generation
+- **Quality Control**: Iterative refinement loop with automated validation
+- **Source Citation**: Automatic source references and context preservation
+- **Agentic Workflow**: LangGraph-powered stateful research pipeline
 
 ## Installation
 
 1. **Clone Repository**
 ```bash
-[git clone https://github.com/yourusername/deep-research-ai.git](https://github.com/Pratham-1831/Deep-Research-System.git)
+git clone https://github.com/Pratham-1831/Deep-Research-System.git
 cd deep-research-ai
